@@ -1,5 +1,7 @@
 # Use Chromecast receiver [![npm](https://img.shields.io/npm/v/use-chromecast-caf-receiver.svg)](https://www.npmjs.com/package/use-chromecast-caf-receiver) ![npm type definitions](https://img.shields.io/npm/types/use-chromecast-caf-receiver.svg)
 
+React hook to use the [Chromecast receiver SDK](https://developers.google.com/cast/docs/web_receiver) in your project.
+
 ## Installation
 
 ```bash

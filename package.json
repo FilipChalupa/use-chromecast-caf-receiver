@@ -1,7 +1,7 @@
 {
 	"name": "use-chromecast-caf-receiver",
 	"version": "0.0.2",
-	"description": "",
+	"description": "React hook to use the Chromecast receiver SDK in your project",
 	"main": "./dist/index.js",
 	"module": "./dist/index.es.js",
 	"types": "./dist/index.d.ts",
